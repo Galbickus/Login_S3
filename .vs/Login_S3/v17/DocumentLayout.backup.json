@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{EB7A4244-FE4E-4EF8-827B-4296B8C58D60}|Login_S3\\Login_S3.csproj|solutionrelative:login_s3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB7A4244-FE4E-4EF8-827B-4296B8C58D60}|Login_S3\\Login_S3.csproj|c:\\users\\asus\\source\\repos\\login_s3\\login_s3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EB7A4244-FE4E-4EF8-827B-4296B8C58D60}|Login_S3\\Login_S3.csproj|C:\\Users\\ASUS\\source\\repos\\Login_S3\\login_s3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EB7A4244-FE4E-4EF8-827B-4296B8C58D60}|Login_S3\\Login_S3.csproj|solutionrelative:login_s3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Login_S3\\Login_S3\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Login_S3\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T06:51:56.491Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-04-18T06:51:56.491Z"
             }
           ]
         }
